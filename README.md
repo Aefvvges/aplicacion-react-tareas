@@ -11,4 +11,4 @@ Una aplicacion para crear una lista de tareas donde se pueden crear tareas, marc
 1. Clonar el repositorio:  
    ```bash
    git clone https://github.com/Aefvvges/aplicacion-react-tareas.git
-   cd NombreDelProyecto
+   cd aplicacion-react-tareas
